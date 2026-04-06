@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Website**: [tasguard.com](https://tasguard.com)
 - **Documentation**: [Wiki](https://github.com/yourusername/animator-trigger-system/wiki)
 - **Issues**: [GitHub Issues](https://github.com/cherryland120/animator-trigger-system/issues)
-- **Email**: tasguardtech@gmail.com
+- **Email**: hello@tasguard.com
 
 ---
 
